@@ -1,5 +1,5 @@
 # Plantilla de Readme y License 💻 
-Esta es una plantilla de Readme y Licencia
+Esta es una plantilla de Readme y Licencia para mis proyectos que encontrarás en este repositorio.
 
 [![Vue Ready](https://img.shields.io/badge/Code-Vue.js-%2342b983)](https://es.vuejs.org/)
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
@@ -15,13 +15,16 @@ Esta es una plantilla de Readme y Licencia
 
 - [Plantilla de Readme y License 💻](#plantilla-de-readme-y-license-)
   - [Acerca de](#acerca-de)
+  - [Licencia](#licencia)
   - [Autor](#autor)
     - [Contacto](#contacto)
-  - [Licencia](#licencia)
+  - [Licencia](#licencia-1)
 
 ## Acerca de
-Esta es mi plantilla para hacer Readme con mi licencia 
+Esta es mi plantilla para hacer Readme con mi licencia con alguna estructura común que uso.
 
+## Licencia
+Puedes encontrar mi plantilla de licencia en: [LICENSE](https://joseluisgs.github.io/docs/license/).
 
 ## Autor
 
