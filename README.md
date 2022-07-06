@@ -6,7 +6,7 @@ Esta es una plantilla de Readme y Licencia
 [![Android](https://img.shields.io/badge/Code-Android-green)](https://developer.android.com/)
 [![Android](https://img.shields.io/badge/Code-TypeScript-blue)](https://www.typescriptlang.org/)
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-%23e64545)](https://joseluisgs.github.io/docs/license/)
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/readme-license-template)
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/readme-licese-template)
 
 <p align="center">
   <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://github.com/joseluisgs/joseluisgs/raw/master/images/banner.png" 
