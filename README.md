@@ -5,7 +5,7 @@ Esta es una plantilla de Readme y Licencia para mis proyectos que encontrarás e
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Code-Android-green)](https://developer.android.com/)
 [![Android](https://img.shields.io/badge/Code-TypeScript-blue)](https://www.typescriptlang.org/)
-[![LISENCE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
+[![LICENSE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/readme-licese-template)
 
 <p align="center">
@@ -18,13 +18,13 @@ Esta es una plantilla de Readme y Licencia para mis proyectos que encontrarás e
   - [Licencia](#licencia)
   - [Autor](#autor)
     - [Contacto](#contacto)
-  - [Licencia de uso y explotación](#licencia-de-uso-y-explotación)
+  - [Licencia de uso](#licencia-de-uso)
 
 ## Acerca de
 Esta es mi plantilla para hacer Readme con mi licencia con alguna estructura común que uso.
 
 ## Licencia
-Puedes encontrar mi plantilla de licencia en: [LICENSE](https://joseluisgs.github.io/docs/license/).
+Puedes encontrar mi plantilla de licencia en: [LICENSE](#licencia-de-uso).
 
 ## Autor
 
@@ -64,7 +64,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     </a>    
 </p>
 
-## Licencia de uso y explotación
+## Licencia de uso
 
 Este repositorio y todo su contenido está licenciado bajo licencia **Creative Commons**, si desea saber más, vea la [LICENSE](https://joseluisgs.github.io/docs/license/). Por favor si compartes, usas o modificas este proyecto cita a su autor, y usa las mismas condiciones para su uso docente, formativo o educativo y no comercial.
 
