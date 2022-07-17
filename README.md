@@ -66,7 +66,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
 </p>
 
 ### ¿Un café?
-<p><a href="https://www.buymeacoffee.com/joseluisgs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" alt="joseluisgs" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/joseluisgs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" alt="joseluisgs" /></a></p><br><br><br>
 
 ## Licencia de uso
 
