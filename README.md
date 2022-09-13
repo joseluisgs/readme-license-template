@@ -5,8 +5,8 @@ Esta es una plantilla de Readme y Licencia para mis proyectos que encontrarás e
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Code-Android-green)](https://developer.android.com/)
 [![Android](https://img.shields.io/badge/Code-TypeScript-blue)](https://www.typescriptlang.org/)
-[![LICENSE](https://img.shields.io/badge/Lisence-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/readme-licese-template)
+[![LICENSE](https://img.shields.io/badge/License-CC-%23e64545)](https://joseluisgs.github.io/docs/license/)
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/readme-license-template)
 
 <p align="center">
   <a href="https://joseluisgs.github.io/" target="_blank"><img src="https://github.com/joseluisgs/joseluisgs/raw/master/images/banner.png" 
